@@ -1,5 +1,13 @@
 # Ligma-s-entertainment
-Este es un repositorio de prueba
+1er semestre
+
+
+
+
+
+
+
+2do semestre
 .
 
 [Ejemplo 1, como imprimir correos](./Examples/Program.cs)
